@@ -1,0 +1,19 @@
+{
+  "name": "secure-weather-app",
+  "version": "1.0.0",
+  "description": "Secure Weather App with CI/CD pipeline and secret validation",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "weather",
+    "ci-cd",
+    "github-actions",
+    "security"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
